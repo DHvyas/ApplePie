@@ -3,7 +3,7 @@
 An iOS app made as a milestone project while learning swift. It's a version of hangman where the user has to guess the names of car manufacturers. On guessing a wrong letter an apple falls. You also get indicators for number of wins and losses
 
 
-![Screenshot](SS.png)
+![Screenshot](./SS.png)
 
 ## Getting Started
 
